@@ -1,5 +1,3 @@
-'use strict';
-
 let money, time;
 
 function start() {
